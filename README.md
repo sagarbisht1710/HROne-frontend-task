@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# HROne Frontend Task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a **React.js frontend project** for the HROne task. It provides a simple and interactive UI for building and visualizing JSON Schemas. The app is created using **Create React App**.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
+- **Dynamic JSON Schema Builder**.
+- **React.js** with functional components and hooks.
+- **Component-based structure** (e.g., `SchemaBuilder.jsx`).
+- **Responsive and clean UI**.
+- Optimized build process for production.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🗂 Project Structure
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+public/
+├── favicon.ico
+├── index.html
+├── manifest.json
+└── robots.txt
 
-### `npm test`
+src/
+├── components/
+│   └── SchemaBuilder.jsx
+├── App.js
+├── App.css
+├── index.js
+├── index.css
+├── reportWebVitals.js
+└── setupTests.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+.gitignore
+package.json
+README.md
 
-### `npm run build`
+````
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⚙️ Installation & Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sagarbisht1710/HROne-frontend-task.git
+   cd HROne-frontend-task
+````
 
-### `npm run eject`
+2. **Install dependencies**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   npm install
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. **Start the development server**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm start
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   The app will run at **[HROne Frontend Task](https://hr-one-frontend-task-six.vercel.app/)**.
 
-## Learn More
+4. **Create a production build**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   npm run build
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🧪 Testing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Run the test suite:
 
-### Analyzing the Bundle Size
+```bash
+npm test
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🌐 Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The build files in the `build/` directory can be deployed to:
 
-### Advanced Configuration
+* **Netlify**
+* **Vercel**
+* **GitHub Pages**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 📧 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**Author:** [Sagar Bisht](https://www.linkedin.com/in/sagar-bisht-235b25273/)
+**GitHub Repo:** [HROne-frontend-task](https://github.com/sagarbisht1710/HROne-frontend-task.git)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
