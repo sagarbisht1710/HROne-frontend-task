@@ -1,6 +1,3 @@
-Here’s your **HROne Frontend Task README** with a few improvements for formatting and clarity:
-
-```markdown
 # HROne Frontend Task
 
 This is a **React.js frontend project** for the HROne task. It provides a simple and interactive UI for building and visualizing JSON Schemas. The app is created using **Create React App**.
