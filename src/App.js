@@ -18,7 +18,7 @@ function App() {
         }}
       >
         <Title level={3} style={{ color: '#fff', margin: 0 }}>
-          JSON Schema Builder Demo
+          JSON Schema Builder 
         </Title>
       </Header>
       <Content style={{ padding: 24, background: '#f5f5f5' }}>
