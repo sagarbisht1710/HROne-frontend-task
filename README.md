@@ -13,6 +13,16 @@ This is a **React.js frontend project** for the HROne task. It provides a simple
 
 ---
 
+## 🛠 Tech Stack
+- **React.js** – Frontend library.
+- **JavaScript (ES6+)** – Core language.
+- **CSS3** – Styling.
+- **HTML5** – Markup.
+- **Create React App** – Project setup and bundling.
+- **Vercel** – Deployment.
+
+---
+
 ## 🗂 Project Structure
 ```
 
@@ -46,7 +56,6 @@ README.md
    ```bash
    git clone https://github.com/sagarbisht1710/HROne-frontend-task.git
    cd HROne-frontend-task
-````
 
 2. **Install dependencies**
 
@@ -95,4 +104,3 @@ The build files in the `build/` directory can be deployed to:
 **Author:** [Sagar Bisht](https://www.linkedin.com/in/sagar-bisht-235b25273/)
 **GitHub Repo:** [HROne-frontend-task](https://github.com/sagarbisht1710/HROne-frontend-task.git)
 
-```
