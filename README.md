@@ -1,3 +1,6 @@
+Here’s your **HROne Frontend Task README** with a few improvements for formatting and clarity:
+
+```markdown
 # HROne Frontend Task
 
 This is a **React.js frontend project** for the HROne task. It provides a simple and interactive UI for building and visualizing JSON Schemas. The app is created using **Create React App**.
@@ -9,7 +12,7 @@ This is a **React.js frontend project** for the HROne task. It provides a simple
 - **React.js** with functional components and hooks.
 - **Component-based structure** (e.g., `SchemaBuilder.jsx`).
 - **Responsive and clean UI**.
-- Optimized build process for production.
+- **Optimized build process** for production.
 
 ---
 
@@ -95,4 +98,4 @@ The build files in the `build/` directory can be deployed to:
 **Author:** [Sagar Bisht](https://www.linkedin.com/in/sagar-bisht-235b25273/)
 **GitHub Repo:** [HROne-frontend-task](https://github.com/sagarbisht1710/HROne-frontend-task.git)
 
-
+```
